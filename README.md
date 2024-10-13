@@ -2,15 +2,6 @@
 
 This project provides an analysis of key supply chain metrics, focusing on the relationships between shipping times, manufacturing costs, stock levels, and their impact on sales performance. The analysis leverages a dataset containing supply chain information for different product types and includes exploratory data analysis, data visualization, and predictive modeling.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [How to Run the Project](#how-to-run-the-project)
-- [Conclusion](#conclusion)
-
 ## Project Overview
 The goal of this project is to gain insights into how various supply chain factors such as shipping times, manufacturing lead times, and costs influence the number of products sold. Through this analysis, we aim to provide actionable recommendations for optimizing supply chain processes.
 
